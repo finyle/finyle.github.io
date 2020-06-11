@@ -1,14 +1,14 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-clean-dark"
+  spec.name          = "finyle.github.io"
   spec.version       = "0.1.3"
   spec.authors       = ["Pavel Makhov"]
   spec.email         = ["streetturtle@gmail.com"]
 
   spec.summary       = %q{Customizable dark theme for Jekyll.}
   spec.description   = "Customizable dark theme for Jekyll. Supports tags, comments, analytics, share buttons."
-  spec.homepage      = "https://github.com/streetturtle/jekyll-clean-dark"
+  spec.homepage      = "https://github.com/finyle/finyle.github.io"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
